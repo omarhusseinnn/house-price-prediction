@@ -118,16 +118,4 @@ Possible improvements include:
 * Building a simple web application for real-time predictions.
 * Deploying the model as an online prediction service.
 
-👩‍💻 Author
 
-Farah Said
-
-GitHub: @saidfarah360-cyber
-
-⭐ Project Status
-
-Completed — Machine Learning Project
-
-⸻
-
-If you find this project useful, feel free to ⭐ the repository!
